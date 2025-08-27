@@ -20,7 +20,7 @@ A modern Flutter application that displays the latest news articles from various
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/0xsreejith/newsly.git
    cd newsly
    ```
 
